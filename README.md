@@ -34,14 +34,13 @@
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein Benutzer möchte ich das das Program eine geheimzahl zwischen 1-100 speicher, damit ich die Zahl erraten kann|
+| 1    |muss|Funktional| Als ein Benutzer möchte ich das das Program eine geheimzahl zwischen 1-100 speicher, damit ich die Zahl erraten kann|
 
-|2 |                 |      | Als Benutzer möchte ich eine Zahl eingeben können damit ich die Zahl erraten kann |
-| |                 |      |Als Benutzer möchte ich dass das Programm mir angigt ob ich die Geheimzahl getroffen habe |
-| |                 |      |Als Benutzer möchte ich das das Program mir angipt ob meine Zahl zu klein oder zu gross ist damit ich weiss wie ich Stehe|
-| |                 |      |Als Benutzer möchte ich wenn ich die Geheimzahl erraten habe das ich gefragt werde ob ich nochmal spielen will |
-| |                 |      |Als Benutzer möchte ich die Anzahlrateversuche angezeigt bekommen wenn ich die geheimzahl erraten habe damit ich mich verbessern kann.|
-| |                 |      |                                    |
+|2 |muss|Funktional| Als Benutzer möchte ich eine Zahl eingeben können damit ich die Zahl erraten kann |
+|3|muss|Funktional|Als Benutzer möchte ich dass das Programm mir angigt ob ich die Geheimzahl getroffen habe |
+|4|muss|Funktional|Als Benutzer möchte ich das das Program mir angipt ob meine Zahl zu klein oder zu gross ist damit ich weiss wie ich Stehe|
+|5|muss|Funktional|Als Benutzer möchte ich wenn ich die Geheimzahl erraten habe das ich gefragt werde ob ich nochmal spielen will |
+|6|muss|Funktional|Als Benutzer möchte ich die Anzahlrateversuche angezeigt bekommen wenn ich die geheimzahl erraten habe damit ich mich verbessern kann.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -73,10 +72,13 @@
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 
 | ---- | ----- | --------- | ------------ | ------------- |
-
-| 1.A  |       |           |              |               |
-
-| ...  |       |           |              |               |
+| 1.A  |16.08.2023|John Broder|Ich erstelle eine geheimzahl generator  |30min|
+| 2.A | 16.08.2023 | --------- | programmieren eines Eingabe Felds | ------------- |
+| 3.A | 23.08.2023 | John Broder | Das programm zeigt an wenn der Benutzer die geheimzahl erraten hat | ------------- |
+| 4.A | 23.08.2023 | --------- | das programm gibt an ob die eingegebene Zahl zu hoch zu tief oder die Geheimzahl | ------------- |
+| 4.B | 30.08.2023 | --------- | ABfangen von Fehleingaben  | ------------- |
+| 5.A | 30.08.2023 | --------- | frage stellen ob der benutzer weiter spielen will| ------------- |
+| 6.A | ----- | --------- | Anzahl Rateversuche programmieren | ------------- |
 
 
 Total: 
