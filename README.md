@@ -73,12 +73,12 @@
 
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |16.08.2023|John Broder|Ich erstelle eine geheimzahl generator  |30min|
-| 2.A | 16.08.2023 | --------- | programmieren eines Eingabe Felds | ------------- |
-| 3.A | 23.08.2023 | John Broder | Das programm zeigt an wenn der Benutzer die geheimzahl erraten hat | ------------- |
-| 4.A | 23.08.2023 | --------- | das programm gibt an ob die eingegebene Zahl zu hoch zu tief oder die Geheimzahl | ------------- |
-| 4.B | 30.08.2023 | --------- | ABfangen von Fehleingaben  | ------------- |
-| 5.A | 30.08.2023 | --------- | frage stellen ob der benutzer weiter spielen will| ------------- |
-| 6.A | ----- | --------- | Anzahl Rateversuche programmieren | ------------- |
+| 2.A | 16.08.2023 | John Broder | programmieren eines Eingabe Felds | 15min |
+| 3.A | 23.08.2023 | John Broder | Das programm zeigt an wenn der Benutzer die geheimzahl erraten hat | 10min |
+| 4.A | 23.08.2023 | John Broder | das programm gibt an ob die eingegebene Zahl zu hoch zu tief oder die Geheimzahl | 45min |
+| 4.B | 30.08.2023 | John Broder | ABfangen von Fehleingaben  | 10min |
+| 5.A | 30.08.2023 | John Broder | frage stellen ob der benutzer weiter spielen will| 20min |
+| 6.A | 30.08.2023 | John Broder | Anzahl Rateversuche programmieren | 45min |
 
 
 Total: 
