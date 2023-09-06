@@ -4,8 +4,9 @@
 
 | Datum  | version | Zussamenfassung|
 | ------------- | ------------- | --------|
-| Content Cell  | 0.0.1  |Heute habe ich mich wieder in c# eingearbeitet und mit dem Projekt angefangen |
-| Content Cell  | 0.0.2|-----------------|
+| 16.08.2023  | 0.0.1  |Heute habe ich mich wieder in c# eingearbeitet und mit der Planung angefangen |
+| 23.08.2023  | 0.0.2| Heute war der erste Tag des realiesieren und ich bin gut im Zeitplan|
+| 30.08.2023  | 0.0.3| Heute konnte ich das programm fertigstellen und kann mich beim nächsten mal auf das Portfolio konzentrieren und aufs testen|
 
 John Broder
 
