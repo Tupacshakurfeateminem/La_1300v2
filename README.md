@@ -13,15 +13,7 @@
 John Broder
 
 
-| Datum | Version | Zusammenfassung                                              |
 
-| ----- | ------- | ------------------------------------------------------------ |
-
-|       | 0.0.1   | Heute habe ich mich wieder in c# eingearbeitet und mit dem Projekt angefangen  |
-
-|       | ...     |                                                              |
-
-|       | 1.0.0   |                                                              |
 
 
 ## 1 Informieren
@@ -53,9 +45,9 @@ John Broder
 | TC-№  | Ausgangslage |Eingabe | Erwartete Ausgabe |
 | ------------- | ------------- |----|------|
 | 2.1  | Eingabe von Zahl  | 34 |falsch oder richtig|
-| 3.1| Eingabe von Zahl  | 34 | |falsch oder richtig|
-| 4.1| Eingabe von Zahl  | 34 | |zu klein, zu gross oder richtig|
-| 5.1| möchten Sie weiterspielen | j | | spiel wird erneut gestartet|
+| 3.1| Eingabe von Zahl  | 34 |falsch oder richtig|
+| 4.1| Eingabe von Zahl  | 34  |zu klein, zu gross oder richtig|
+| 5.1| möchten Sie weiterspielen | j  | spiel wird erneut gestartet|
 | 6.1| richtige Zahl wurde erraten  | keine Eingabe | Anzahl der versuch : 34 |
 
 
