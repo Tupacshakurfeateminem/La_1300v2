@@ -72,35 +72,16 @@ Ich bleibe bei meinem Plan und ändere nichts.
 
 ### 5.1 Testprotokoll
 
+| TC-№   | Datum | Resultat|
+| ------------- | ------------- | --------|
+| 1.1 | 30.08.2023  |O.K|
+| 2.1 | 30.08.2023| O.K|
+| 3.1 | 30.08.2023 | O.K|
+| 4.1 | 06.09.2023 | O.K|
+| 5.1 | 06.09.2023 | O.K|
+| 6.1 | 06.09.2023 | O.K|
 
-| TC-№ | Datum | Resultat | Tester |
-
-| ---- | ----- | -------- | ------ |
-
-| 1.1  |       |          |        |
-
-| ...  |       |          |        |
-
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-
-### 5.2 Exploratives Testen
+Alle Test sind Fehlerfrei verlaufen.
 
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-
-| I    |              |         |                   |                      |
-
-| ...  |              |         |                   |                      |
-
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-
-## 6 Auswerten
-
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
