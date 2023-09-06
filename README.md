@@ -1,16 +1,16 @@
 # La_1300v2
 # Projekt-Dokumentation
-[09:48] Ensar Yildirim
+
 
 | Datum  | version | Zussamenfassung|
 | ------------- | ------------- | --------|
-| Content Cell  | Content Cell  |Heute habe ich mich wieder in c# eingearbeitet und mit dem Projekt angefangen |
-| Content Cell  | Content Cell  |-----------------|
+| Content Cell  | 0.0.1  |Heute habe ich mich wieder in c# eingearbeitet und mit dem Projekt angefangen |
+| Content Cell  | 0.0.2|-----------------|
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+John Broder
 
 
 | Datum | Version | Zusammenfassung                                              |
@@ -30,22 +30,19 @@
 ### 1.1 Ihr Projekt
 
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-
+ diesem Projekt arbeite ich an einem Number Guesser welches die jeweiligen Versuche der Eingaben zählt und tips gibt.
 ### 1.2 User Stories
 
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| US-№  | Verbindlichkeit | Typ| Beschreibung|
+| ------------- | ------------- | -----------|-------|
+| 1  | muss  | Funktional | Als ein Benutzer möchte ich das das Program eine geheimzahl zwischen 1-100 speicher, damit ich die Zahl erraten kann|
+| 2  | muss  | Funktional |Als Benutzer möchte ich eine Zahl eingeben können damit ich die Zahl erraten kann|
+| 3| muss| Funktional| Als Benutzer möchte ich dass das Programm mir angigt ob ich die Geheimzahl getroffen habe |
+| 4|muss| Funktional |Als Benutzer möchte ich das das Program mir angipt ob meine Zahl zu klein oder zu gross ist damit ich weiss wie ich Stehe|
+| 5| muss| Funktional |Als Benutzer möchte ich wenn ich die Geheimzahl erraten habe das ich gefragt werde ob ich nochmal spielen will |
+| 6| muss | Funktional |Als Benutzer möchte ich die Anzahlrateversuche angezeigt bekommen wenn ich die geheimzahl erraten habe damit ich mich verbessern kann.|
 
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |muss|Funktional| Als ein Benutzer möchte ich das das Program eine geheimzahl zwischen 1-100 speicher, damit ich die Zahl erraten kann|
-
-|2 |muss|Funktional| Als Benutzer möchte ich eine Zahl eingeben können damit ich die Zahl erraten kann |
-|3|muss|Funktional|Als Benutzer möchte ich dass das Programm mir angigt ob ich die Geheimzahl getroffen habe |
-|4|muss|Funktional|Als Benutzer möchte ich das das Program mir angipt ob meine Zahl zu klein oder zu gross ist damit ich weiss wie ich Stehe|
-|5|muss|Funktional|Als Benutzer möchte ich wenn ich die Geheimzahl erraten habe das ich gefragt werde ob ich nochmal spielen will |
-|6|muss|Funktional|Als Benutzer möchte ich die Anzahlrateversuche angezeigt bekommen wenn ich die geheimzahl erraten habe damit ich mich verbessern kann.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -53,13 +50,15 @@
 ### 1.3 Testfälle
 
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| TC-№  | Ausgangslage |Eingabe | Erwartete Ausgabe |
+| ------------- | ------------- |----|------|
+| 2.1  | Eingabe von Zahl  | 34 |falsch oder richtig|
+| 3.1| Eingabe von Zahl  | 34 | |falsch oder richtig|
+| 4.1| Eingabe von Zahl  | 34 | |zu klein, zu gross oder richtig|
+| 5.1| möchten Sie weiterspielen | j | | spiel wird erneut gestartet|
+| 6.1| richtige Zahl wurde erraten  | keine Eingabe | Anzahl der versuch : 34 |
 
-| ---- | ------------ | ------- | ----------------- |
 
-| 1.1  |              |         |                   |
-
-| ...  |              |         |                   |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
