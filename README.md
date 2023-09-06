@@ -1,6 +1,11 @@
 # La_1300v2
 # Projekt-Dokumentation
+[09:48] Ensar Yildirim
 
+| Datum  | version | Zussamenfassung|
+| ------------- | ------------- | --------|
+| Content Cell  | Content Cell  |Heute habe ich mich wieder in c# eingearbeitet und mit dem Projekt angefangen |
+| Content Cell  | Content Cell  |-----------------|
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
